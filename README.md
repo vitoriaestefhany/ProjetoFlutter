@@ -1,4 +1,4 @@
-# Projeto Flutter
+# Projeto Flutter/Dart
 
 <h2>Introdução</h2>
 <p>Este é um projeto que consistiu em criar um pequeno aplicativo.</p>
